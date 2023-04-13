@@ -5,7 +5,7 @@ Simples agenda de contatos para o sitema Windows,Linux,Mac.
 ![Print da tela](https://github.com/kauanoliveira01/Agenda/blob/main/img/print.png)
 ## Autor 
 
-##Instalção da versão de demonstração
+##Instalção da agenda de contatos
 Essas onstruções forncerão uma cópia do projeto instalado e funcionando em máquina local.
 ### Pré requisitos:
 É necessário ter instalado no computador:
